@@ -1,16 +1,6 @@
-# go_moon
+FLY HIGH
+This is fullter project that designs a cross platform mobile applications to book tickets for space travel. The main aim is to 
+•	Implemented various UI components including SafeArea, Scaffold, Container, Buttons, Dropdowns, Align, Stack, Image, Columns, and Rows, and created reusable widgets to enhance code modularity and maintainability.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screen shots from the application: 
+![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2024-06-05 at 23.54.48.png…]()
